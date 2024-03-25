@@ -19,4 +19,3 @@ This repository contains the source code and documentation for a university proj
 - **Density Function Verification:** Check if a user-defined function with two variables is a probability density function.
 - **Continuous Random Variables:** Create continuous random variables based on user-provided probability density functions, supporting both unidimensional and bidimensional variables.
 
----
